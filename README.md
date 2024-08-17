@@ -27,7 +27,6 @@ PLOTTER_APP_D3.py: The script for the "One File Plotting App."
 <br>
 PDF_GE_NEW.py: The script for the "Plot and Image to PDF App."
 
-<br>
 # Requirements
 1. Python 3.x
 <br>
