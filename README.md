@@ -29,7 +29,7 @@ PDF_GE_NEW.py: The script for the "Plot and Image to PDF App."
 
 # Requirements
   1. Python 3.x
-  <br>
+
   2. PyQt5
   <br>
   3. Matplotlib
