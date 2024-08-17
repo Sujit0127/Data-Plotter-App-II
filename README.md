@@ -31,4 +31,4 @@ PDF_GE_NEW.py: The script for the "Plot and Image to PDF App."
   1. Python 3.x
   2. PyQt5
   3. Matplotlib
-  4.Subprocess Module: Used to run external Python scripts for plotting.
+  4. Subprocess Module: Used to run external Python scripts for plotting.
