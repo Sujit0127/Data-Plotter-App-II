@@ -32,3 +32,13 @@ PDF_GE_NEW.py: The script for the "Plot and Image to PDF App."
   2. PyQt5
   3. Matplotlib
   4. Subprocess Module: Used to run external Python scripts for plotting.
+
+#Image
+<img width="1012" height="843" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/2c6feec6-d031-464e-8157-493b6b2dd91d" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/8afb50e2-8656-4043-8b11-872094f24f11" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/11fe36ef-e4d9-462b-80fc-5af3c727a681" />
+<img width="1016" height="655" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/49a8496b-1921-4623-8ffc-dfbc98d4567c" />
+
+
+
+
