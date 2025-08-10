@@ -1,4 +1,4 @@
-This PyQt5-based desktop application serves as a data plotting and visualization tool designed for the Range System Division (RSD). It features a graphical user interface (GUI) for selecting and executing various plotting applications. The application is tailored to handle one-file and two-file plotting, as well as exporting plots and images to PDF.
+This PyQt5-based desktop application serves as a data plotting and visualization tool. It features a graphical user interface (GUI) for selecting and executing various plotting applications. The application is tailored to handle one-file and two-file plotting, as well as exporting plots and images to PDF.
 
 # Features
 Two File Plot Compression App: Plots data from two files and compresses the results.
